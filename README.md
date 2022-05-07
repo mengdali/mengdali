@@ -11,7 +11,7 @@
 
 <!-- code.gif -->
 <img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="320" />
-🛠️ **Languages and Tools:**
+🛠️ Languages and Tools:
 
 <p>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3AGo"><img alt="Go" src="https://img.shields.io/badge/Golang-%2345b8d8.svg?logo=go&logoColor=white"></a>
